@@ -1,0 +1,29 @@
+.navbar {
+  background: linear-gradient(90deg, #4f49fb, #b297e9); 
+  padding: 20px 40px; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+
+  
+  .navbar-logo {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .navbar-logo h2 {
+    margin: 0;
+  }
+  
+  .navbar-links a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: initial;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }
+  

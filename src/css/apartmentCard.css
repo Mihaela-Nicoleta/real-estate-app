@@ -1,0 +1,50 @@
+.apartment-card {
+    background-color: transparent;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .apartment-card img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  .apartment-card-content {
+    padding: 15px;
+    flex: 1;
+  }
+  
+  .apartment-card-content h3 {
+    margin-bottom: 10px;
+  }
+  
+  .apartment-card-content p {
+    margin: 5px 0;
+  }
+  
+  .apartment-card-buttons {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+  }
+  
+  .apartment-card-buttons button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .apartment-card-buttons .edit-btn {
+    background-color: green;
+  }
+  
+  .apartment-card-buttons .delete-btn {
+    background-color: red;
+  }
+  
