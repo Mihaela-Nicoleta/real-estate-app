@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/real-estate-app/static/css/main.37f377b4.css",
+    "main.js": "/real-estate-app/static/js/main.a6709efc.js",
+    "static/media/apt2.jpg": "/real-estate-app/static/media/apt2.78d6c60cb01d9a395059.jpg",
+    "static/media/apt4.jpg": "/real-estate-app/static/media/apt4.3b4a244dedc03a981986.jpg",
+    "static/media/apt1.jpg": "/real-estate-app/static/media/apt1.fffcdfb5c6599be008a9.jpg",
+    "static/media/apt5.jpg": "/real-estate-app/static/media/apt5.c5e3f0c5ad83408fbaa2.jpg",
+    "static/media/apt3.jpg": "/real-estate-app/static/media/apt3.afcc0061fd97e2e6903a.jpg",
+    "index.html": "/real-estate-app/index.html",
+    "main.37f377b4.css.map": "/real-estate-app/static/css/main.37f377b4.css.map",
+    "main.a6709efc.js.map": "/real-estate-app/static/js/main.a6709efc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37f377b4.css",
+    "static/js/main.a6709efc.js"
+  ]
+}
